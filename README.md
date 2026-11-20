@@ -11,3 +11,4 @@ Open `index.html` in a browser. The page is built with plain HTML, CSS, and Java
 - `index.html` — page content and structure
 - `style.css` — layout, responsive styling, and animations
 - `script.js` — mobile navigation, reveal effects, and scroll progress
+- `assets/profile.png` — selected profile illustration
